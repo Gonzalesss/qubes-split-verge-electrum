@@ -1,5 +1,5 @@
 # qubes-split-verge-electrum
-Isolate your private guys in a offline VM (cold storage) in Qubes OS
+Isolate your private keys in a offline VM (cold storage) in Qubes OS
 
 ## Create a cold/offline wallet
 
